@@ -37,7 +37,7 @@ MyDr24 employs an **industry-leading monorepo architecture** comparable to tech 
 - **Git** version control
 ---
 
-### 🔐 Quantum-Safe Security Architecture
+### 🔐 Security Architecture
 - **API Layer**: Rust backend with quantum-safe JWT signing and data encryption
 - **Frontend Applications**: TypeScript crypto utilities with secure form handling
 - **Database**: Encrypted patient data with quantum-safe algorithms
